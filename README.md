@@ -12,7 +12,7 @@ My compiled version was built on my Pi 4 running Manjaro ARM
 
 Note use this [patcher](https://github.com/JJTech0130/MultiMC-Patcher) to make Minecraft to run
 
-The patcher won't work unless you replace mmcroot="$HOME/MultiMC" with
-mmcroot="$HOME/.local/share/multimc"
+The patcher won't work unless you replace `mmcroot="$HOME/MultiMC"` with
+`mmcroot="$HOME/.local/share/multimc"`
 
 Credits to [@JJTech0130](https://github.com/JJTech0130) and the Maker of the [Gitlab Snippet](https://gitlab.com/snippets/1933165)
