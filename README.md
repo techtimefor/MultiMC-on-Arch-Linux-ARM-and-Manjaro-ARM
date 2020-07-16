@@ -11,7 +11,7 @@ How to Install MultiMC on Arch Linux ARM/Manjaro ARM
 
 MultiMC should now compile and will be installable
 
-You can install my compiled version by doing `sudo pacman -U multimc-git-0.6.11.r31.gcd57e354-1-aarch64.pkg.tar.xz`
+You can install my compiled version by doing `wget https://github.com/techtimefor/MultiMC-on-Arch-Linux-ARM-and-Manjaro-ARM/blob/master/multimc-git-0.6.11.r31.gcd57e354-1-aarch64.pkg.tar.xz?raw=true && sudo pacman -U multimc-git-0.6.11.r31.gcd57e354-1-aarch64.pkg.tar.xz`
 My compiled version was built on my Pi 4 running Manjaro ARM
 
 Note use this [patcher](https://github.com/JJTech0130/MultiMC-Patcher) to make Minecraft to run
