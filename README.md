@@ -6,7 +6,7 @@ How to Install MultiMC on Arch Linux ARM/Manjaro ARM
  4. makepkg -si
  
  Note if you do not want to modify PKGBUILD you can use the PKGBUILD provided here its updated daily
- Jus do `cd $HOME/multimc-git && wget https://raw.githubusercontent.com/techtimefor/MultiMC-on-Arch-Linux-ARM-and-Manjaro-ARM/master/PKGBUILD`
+ Just do `cd $HOME/multimc-git && rm PKGBUILD && wget https://raw.githubusercontent.com/techtimefor/MultiMC-on-Arch-Linux-ARM-and-Manjaro-ARM/master/PKGBUILD`
  Lastly do `makepkg -si`
 
 MultiMC should now compile and will be installable
