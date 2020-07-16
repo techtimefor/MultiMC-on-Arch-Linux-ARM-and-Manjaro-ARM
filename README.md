@@ -1,6 +1,6 @@
 How to Install MultiMC on Arch Linux ARM/Manjaro ARM
 
-Make sure your system is up to date `sudo pacman -Syy`
+Make sure your system is up to date `sudo pacman -Syyu`
 
 **Tip** You cannot compile packages from then AUR without the base-devel group `sudo pacman -S base-devel`
 
