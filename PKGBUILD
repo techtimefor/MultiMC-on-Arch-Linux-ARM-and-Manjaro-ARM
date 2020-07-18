@@ -1,4 +1,5 @@
 # Maintainer: peterix@gmail.com
+# AUR Package: https://aur.archlinux.org/packages/multimc-git/
 
 pkgname=multimc-git
 pkgver=0.6.11.r1.g21ac860e
