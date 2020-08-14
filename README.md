@@ -15,15 +15,9 @@ Make sure your system is up to date `sudo pacman -Syyu`
 
 MultiMC should now compile and will be installable
 
-You can install my compiled version by doing  `wget https://github.com/techtimefor/MultiMC-on-Arch-Linux-ARM-and-Manjaro-ARM/blob/master/multimc-git-compiledbytechtimefor-14082020.tar.xz && sudo pacman -U multimc-git-compiledbytechtimefor-14082020.tar.xz`
-Version 0.6.12
-Compiled using Manjaro ARM on my Pi 4
-
-[OLD] You can install my compiled version by doing `wget https://github.com/techtimefor/MultiMC-on-Arch-Linux-ARM-and-Manjaro-ARM/blob/master/multimc-git-0.6.11.r31.gcd57e354-1-aarch64.pkg.tar.xz && sudo pacman -U multimc-git-0.6.11.r31.gcd57e354-1-aarch64.pkg.tar.xz`
-Version 0.6.11
-My compiled version was built on my Pi 4 running Manjaro ARM
-
-Note use this [patcher](https://github.com/JJTech0130/MultiMC-Patcher) to make Minecraft to run
+My Compiled Versions
+[MultiMC 0.6.11](https://github.com/techtimefor/MultiMC-on-Arch-Linux-ARM-and-Manjaro-ARM/releases/tag/1.0)
+[MultiMC 0.6.12](https://github.com/techtimefor/MultiMC-on-Arch-Linux-ARM-and-Manjaro-ARM/releases/tag/1.5)
 
 The patcher won't work unless you replace `mmcroot="$HOME/MultiMC"` with
 `mmcroot="$HOME/.local/share/multimc"`
