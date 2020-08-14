@@ -9,7 +9,7 @@ Make sure your system is up to date `sudo pacman -Syyu`
  3. Modify PKGBUILD by replacing `arch=('i686' 'x86_64'`) with `arch=('aarch64')`
  4. makepkg -si
  
- Note if you do not want to modify PKGBUILD you can use the PKGBUILD provided here its updated daily
+ Note if you do not want to modify PKGBUILD you can use the PKGBUILD provided here its always up to date
  Just do `cd $HOME/multimc-git && rm PKGBUILD && wget https://raw.githubusercontent.com/techtimefor/MultiMC-on-Arch-Linux-ARM-and-Manjaro-ARM/master/PKGBUILD`
  Lastly do `makepkg -si`
 
