@@ -16,8 +16,9 @@ Make sure your system is up to date `sudo pacman -Syyu`
 MultiMC should now compile and will be installable
 
 My Compiled Versions
-[MultiMC 0.6.11](https://github.com/techtimefor/MultiMC-on-Arch-Linux-ARM-and-Manjaro-ARM/releases/tag/1.0)
+
 [MultiMC 0.6.12](https://github.com/techtimefor/MultiMC-on-Arch-Linux-ARM-and-Manjaro-ARM/releases/tag/1.5)
+[MultiMC 0.6.11](https://github.com/techtimefor/MultiMC-on-Arch-Linux-ARM-and-Manjaro-ARM/releases/tag/1.0)
 
 The patcher won't work unless you replace `mmcroot="$HOME/MultiMC"` with
 `mmcroot="$HOME/.local/share/multimc"`
